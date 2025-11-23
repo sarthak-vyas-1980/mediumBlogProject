@@ -1,0 +1,33 @@
+// {
+//   "compilerOptions": {
+//     "target": "ESNext",
+//     "module": "ESNext",
+//     "moduleResolution": "Bundler",
+//     "strict": true,
+//     "skipLibCheck": true,
+//     "lib": [
+//       "ESNext"
+//     ],
+//     "jsx": "react-jsx",
+//     "jsxImportSource": "hono/jsx"
+//   },
+// }
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "strict": true,
+    "skipLibCheck": true,
+    "lib": [
+      "ESNext"
+    ],
+    "jsx": "react-jsx",
+    "jsxImportSource": "hono/jsx",
+  },
+  // "include": [
+  //   "src",
+  //   "wrangler.jsonc",
+  //   "worker-configuration.d.ts"
+  // ]
+}

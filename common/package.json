@@ -1,0 +1,17 @@
+{
+  "name": "@sarthaktech/medium-common",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@sarthaktech/medium-common": "^1.0.0",
+    "typescript": "^5.9.2",
+    "zod": "^4.1.5"
+  }
+}
