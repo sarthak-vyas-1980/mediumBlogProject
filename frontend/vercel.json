@@ -1,14 +1,3 @@
 {
-    "rewrites": [
-        {
-            "source": "/:path((?!api/).*)",
-            "destination": "/",
-            "locale": false
-        },
-        {
-            "source": "/api/:path*",
-            "destination": "/api/:path*",
-            "locale": false
-        }
-    ]
+    "rewrites": [{ "source": "/(.*)", "destination": "/" }]
 }
